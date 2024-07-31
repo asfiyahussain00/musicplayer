@@ -1,0 +1,92 @@
+body {
+    background-image: linear-gradient(to right, rgb(151, 87, 153), rgb(126, 9, 126), rgb(76, 138, 209), rgb(19, 49, 94));
+  }
+  
+  .handing {
+    margin-left: 300px;
+    margin-top: 250px;
+    font-size: 70px;
+    color: rgb(118, 163, 190);
+    font-family: 'Times New Roman', Times, serif;
+    text-shadow: 2px 2px 2px white;
+  }
+  
+  .one {
+    margin-left: 300px;
+    font-size: 50px;
+    color: rgb(242, 250, 255);
+    font-family: 'Times New Roman', Times, serif;
+  }
+  
+  .two {
+    margin-left: 300px;
+    font-size: 40px;
+    color: rgb(242, 250, 255);
+    font-family: 'Times New Roman', Times, serif;
+  }
+  
+  .main {
+    width: 350px;
+    height: 650px;
+    background-color: white;
+    margin-top: -350px;
+    margin-left: 700px;
+    border-radius: 20px;
+    box-shadow: 0 0 30px rgba(3, 3, 3, ), /* Outer shadow */
+   
+
+  }
+  
+  .image {
+    width: 200px;
+    
+    border-radius: 200px;
+    justify-content: center;
+    margin-left: 70px;
+  }
+
+  .song{
+    margin-left: 120px;
+
+    line-height: 5px;
+  }
+
+ .music{
+ margin-left: 120px;
+
+
+  }
+
+
+  .start{
+    margin-left: 90px;
+    
+
+  }
+
+ .stop{
+    margin-left: 20px;
+
+  }
+
+
+  .end{
+    margin-right: 10px;
+    margin-left: 10px;
+
+
+  }
+
+
+  .para{
+    margin-left: 100px;
+    line-height: 50px;
+
+  }
+
+  .this{
+    margin-left: 500px;
+
+  }
+ 
+  
